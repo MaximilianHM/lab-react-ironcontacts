@@ -36,3 +36,44 @@
     transform: rotate(360deg);
   }
 }
+
+img {
+  height: 100px;
+}
+button {
+  margin: 10px;
+}
+
+.table-head {
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.table-celeb {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+
+.celebPic {
+  width: 200px;
+}
+.celebName {
+  width: 100px;
+}
+.celebPop {
+  width: 100px;
+}
+.celebOscar {
+  width: 90px;
+}
+.celebEmmy {
+  width: 90px;
+}
+.celebDel {
+  width: 100px;
+}
